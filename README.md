@@ -23,6 +23,9 @@ Phase of the models:<br>
 
 4.Predicting the price of the stock and ploting it.<br><br>
 ![Screenshot_3](https://user-images.githubusercontent.com/60754009/172043377-c706dafc-a1c4-4db7-832a-7b336ec15501.png)
-
+Here,<br>
+->Blue Line: Is the data on which the model was trained.<br>
+->Red Line: Is the original price on the certain day.<br>
+->Orange Line: Is the model predicted value of the data.<br>
 
 
