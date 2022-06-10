@@ -1,6 +1,6 @@
 # Stock-price-Prediction
 
-This is a python program for stock price prediction of Advani Enterprises using Machine Learning.
+This is a python program for stock price prediction of Adani Enterprises using Machine Learning.
 
 This Program uses an artificial recurrent neural network called Long Short Term Memory(LSTM), to predict the closing stock price of Adani Enterprises using past 60 days data.
 
